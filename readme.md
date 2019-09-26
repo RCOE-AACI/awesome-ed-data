@@ -12,7 +12,7 @@ A curated list of awesome education data resources and visualizations, with an e
 *Official CDE data resources*
 
 * [Dataquest](https://data1.cde.ca.gov/dataquest) - Source for demographic and other fundamental data on schools in California
-* [EdData](https://www.ed-data.org/) - Ed-Data is a partnership of the California Department of Education, EdSource, and the Fiscal Crisis and Management Assistance Team/California School Information Services (FCMAT/CSIS) designed to offer educators, policy makers, the legislature, parents, and the public quick access to timely and comprehensive data about K-12 education in California.
+* [EdData](https://www.ed-data.org/) - Ed-Data is designed to offer educators, policy makers, the legislature, parents, and the public quick access to timely and comprehensive data about K-12 education in California.
 * [CAASPP](https://caaspp.cde.ca.gov/) - Official CAASPP results
 * [ELPAC](https://www3.cde.ca.gov/elpac/) - Official ELPAC results 
 * [CDE Dashboard](http://www.caschooldashboard.org) - The official CDE Dashboard
