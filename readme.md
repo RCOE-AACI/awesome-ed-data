@@ -7,7 +7,7 @@ A curated list of awesome education data resources and visualizations, with an e
 
 ## California School Dashboard
 
-* Resources regarding the CA School Dashboard *
+*Resources regarding the CA School Dashboard*
 
 * [CDE Dashboard](http://www.caschooldashboard.org) - The official CDE Dashboard
 * [RCOE Top-5](https://public.tableau.com/profile/rcoe#!/vizhome/CaliforniaSchoolDashboardTopN-Fall2018/TopN) - A Tableau visualization focusing on top 5 growth within each color band
