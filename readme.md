@@ -29,3 +29,4 @@ A curated list of awesome education data resources and visualizations, with an e
 ## CSI-ATSI
 
 * [RCOE CSI-ATSI Visualization](https://riverside.shinyapps.io/CSI-ATSI/) - Fall 2018 visualization for CSI and ATSI identification
+* [RCOE CSI-ATSI Visualization - 2019](https://riverside.shinyapps.io/CSI-ATSI-2019/) - Fall 2019 visualization for CSI and ATSI identification
